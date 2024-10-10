@@ -1,0 +1,4 @@
+Mi IP publica es: 190.55.12.11
+Mi usuario es: root
+El hash de mi usuario es: 63a9f0ea7bb98050796b649e85481845
+La url de mi repositorio es: git@github.com:HectorSantiagoEsquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
