@@ -1,4 +1,4 @@
 Mi IP publica es: 190.55.12.11
 Mi usuario es: vagrant
 El hash de mi usuario es: 63623900c8bbf21c706c45dcb7a2c083
-La url de mi repositorio es: https://github.com/HectorSantiagoEsquivel/UTNFRA_SO_1P2C_2024_Esquivel.git
+La url de mi repositorio es: git@github.com:HectorSantiagoEsquivel/UTNFRA_SO_1P2C_2024_Esquivel.git

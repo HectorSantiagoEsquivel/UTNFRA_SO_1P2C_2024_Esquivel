@@ -18,7 +18,7 @@ EOF
 
 
 
-for (( i=5; i<=15; i++ ))
+for (( i=5; i<15; i++ ))
 do
     
     sudo fdisk "$DISCO" << EOF
@@ -35,7 +35,7 @@ echo
 echo
 
 
-for (( i=5; i<=15; i++ ))
+for (( i=5; i<15; i++ ))
 do
     PARTICION="${DISCO}${i}"
     sudo mkfs.ext4 $PARTICION
